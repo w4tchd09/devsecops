@@ -1,0 +1,46 @@
+*{
+	font-family: microsoft yahei;
+}
+
+tbody td{
+	font-weight: 400 !important;
+	color: #444;
+}
+
+td a:link,td a:visited{
+	color: #3385ff;
+}
+
+.logo-expanded{
+	color:#fff;
+	font-size: 22px;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.logo-expanded:hover,.logo-expanded:visited,.logo-expanded:link{
+	color:#fff;
+	text-decoration: none;
+}
+
+ 
+.settings-icon i{
+	font-size: 19px;
+	color: #fff;
+	margin-top: 7px;
+}
+
+ .selectboxit-text{
+ 	color: #444 !important;
+ }
+
+#myEditor{
+ 	-webkit-box-sizing: initial;
+    -moz-box-sizing: initial;
+     box-sizing: initial;
+ }
+
+ .panel-body p{
+ 	color: #444;
+ 	line-height: 25px;
+ }
